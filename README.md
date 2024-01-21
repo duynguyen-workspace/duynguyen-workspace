@@ -28,7 +28,7 @@
 - 🏫 I’m currently a third year student studying at RMIT University Vietnam.
 - 🔭 <b>Major</b>: Information Technology, <b>Minor</b>: Mobile & Web Application
 - 🌱 Exploring on Full Stack Technologies and web/mobile apps related knowledge.
-- ⚡ In my free time, I am interested in reading tech articles and IT-related newspaper.
+- ⚡ In my free time, I enjoy solving problems in leetcode and reading tech articles.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DuyNguyen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/duy-nguyen-13581b223/)
 
 ---
