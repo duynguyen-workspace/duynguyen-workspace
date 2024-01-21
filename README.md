@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About Me :
 
-- 🏫 I’m currently a third year student at RMIT.
+- 🏫 I’m currently a third year student studying at RMIT University Vietnam.
 - 🔭 <b>Major</b>: Information Technology, <b>Minor</b>: Mobile & Web Application
 - 🌱 Exploring on Full Stack Technologies and web/mobile apps related knowledge.
 - ⚡ In my free time, I am interested in reading tech articles and IT-related newspaper.
