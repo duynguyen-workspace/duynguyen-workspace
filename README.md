@@ -25,8 +25,8 @@
 
 ### 👨‍💻 About Me :
 
-- 🏫 I’m currently a third year student studying at RMIT University Vietnam.
-- 🔭 <b>Major</b>: Information Technology, <b>Minor</b>: Mobile & Web Application
+- 🏫 I’m currently a freshman at Monash University Vietnam.
+- 🔭 <b>Course</b>: Master of CyberSecurity
 - 🌱 Exploring on Full Stack Technologies and web/mobile apps related knowledge.
 - ⚡ In my free time, I enjoy solving problems in leetcode and reading tech articles.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DuyNguyen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/duy-nguyen-13581b223/)
